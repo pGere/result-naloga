@@ -17,9 +17,7 @@ import org.springframework.test.web.servlet.ResultMatcher;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
-import java.time.Instant;
 import java.util.Arrays;
-import java.util.Date;
 
 import static org.mockito.BDDMockito.given;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;
